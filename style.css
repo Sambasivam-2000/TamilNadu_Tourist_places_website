@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Hurricane&family=Inspiration&family=Mochiy+Pop+P+One&family=PT+Serif:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Hurricane&family=Inspiration&family=Mochiy+Pop+P+One&family=PT+Serif:ital@1&display=swap');
+   body{
+       background-color: #6fb2d2;
+   }
+.all{
+        background-image: url('hori-1.jpg');
+        background-repeat: no-repeat;
+        background-size: 100%,100%;
+        
+    }
+    #bg{
+        background-color: #c8f2ef;  
+        border-radius: 35px;
+    }
+    #one{
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Hurricane', cursive;
+        padding: 100px;
+        letter-spacing: 5px;
+       color: #000000;
+    }
+    #p {
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Hurricane', cursive;
+        font-size: 35px;
+        
+        
+        
+        text-align: center;
+        color: #000000;
+        font-weight: bold;
+      }
+      #p1{
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Hurricane', cursive;
+        font-size: 35px;
+        margin-left:380px; 
+        background-color: #ffffff;
+        border-radius: 35px;
+       display: inline;
+        color:#4b6587;
+        font-weight: bold;  
+    }  
+.section{
+        border: 1px solid #000000;
+        background-color:#000000;
+       
+        color: #ffffff;
+        text-align: center;
+        font-size: 25px;
+       
+        
+} 
+hr{
+width:25%
+}        
+h1{
+font-size: 48px;
+text-align: center;
+color:#ffffff;
+font-family: 'Dancing Script', cursive;
+font-family: 'Inspiration', cursive;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'PT Serif', serif;
+
+}
+.nav{
+width: 100%;
+color:#ffffff ;
+font-size: 20px;
+text-decoration: none;
+padding-left: 30px;
+word-spacing: 50px;
+width: 100%;
+
+}
+#p2{
+        font-family: 'Dancing Script', cursive;
+        font-family: 'Hurricane', cursive;
+        font-size: 35px;
+        color: #000b49;
+        
+}
+#p3{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Hurricane', cursive;
+    font-size: 35px;
+    color: #3A3845;
+}
+
+#help{
+text-align:center;
+background-image: url('beach.jpeg');
+background-repeat: no-repeat;
+background-size: 100%,100%;
+word-spacing: 30px;
+font-size: 40px;
+padding-left: 5%;
+
+}
+.dis{
+
+color: #ffffff;
+text-decoration: none;
+word-spacing: 5px;
+
+}
+.h1{
+font-size: small;
+font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+display: block;
+font-size: 15px;
+}
+#img{
+margin-left:1%;
+
+border-radius: 20px;
+}
+#one{
+    word-spacing:30px;
+}
+#style{
+
+background-image: url('enjoy');
+background-repeat: no-repeat;
+background-size: 100%,100%;
+border-radius: 35px;
+}
+.pic{
+background-color:grey;
+padding: 200px;
+}
+
+#map{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid black;
+    background-color: #000000;
+}
